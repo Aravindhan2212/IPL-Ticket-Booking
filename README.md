@@ -122,5 +122,3 @@ Aravindhan K
 
 
 
-💻 Developer | Python & Streamlit Enthusiast
-📧 [Your Email or Portfolio Link]
